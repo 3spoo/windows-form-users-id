@@ -1,0 +1,10 @@
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\bin\Debug\WFormUsers.exe.config
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\bin\Debug\WFormUsers.exe
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\bin\Debug\WFormUsers.pdb
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\obj\Debug\WFormUsers.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\obj\Debug\WFormUsers.Form1.resources
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\obj\Debug\WFormUsers.Properties.Resources.resources
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\obj\Debug\WFormUsers.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\obj\Debug\WFormUsers.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\obj\Debug\WFormUsers.exe
+C:\Users\Utente\Desktop\SCHOOL\INFORMATICA\VS_FORMS\WFormUsers\WFormUsers\obj\Debug\WFormUsers.pdb
